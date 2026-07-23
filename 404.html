@@ -1,0 +1,22 @@
+<!doctype html>
+<html lang="en-CA">
+  <head>
+    <meta charset="UTF-8" />
+    <title>Muraqabah Initiative</title>
+    <meta name="robots" content="noindex" />
+    <script>
+      (function () {
+        var base = '/miwebsite/'
+        var path = window.location.pathname
+        if (path.indexOf(base) === 0) {
+          window.location.replace(
+            window.location.origin + base + '?p=' + encodeURIComponent(path) + window.location.hash
+          )
+        } else {
+          window.location.replace(window.location.origin + base)
+        }
+      })()
+    </script>
+  </head>
+  <body></body>
+</html>
