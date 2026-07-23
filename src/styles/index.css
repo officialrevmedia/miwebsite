@@ -1,0 +1,99 @@
+@import '@fontsource/cormorant-garamond/600.css';
+@import '@fontsource/cormorant-garamond/700.css';
+@import '@fontsource/cormorant-garamond/600-italic.css';
+@import '@fontsource/manrope/400.css';
+@import '@fontsource/manrope/500.css';
+@import '@fontsource/manrope/600.css';
+@import '@fontsource/amiri/400.css';
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  html {
+    @apply antialiased;
+    scrollbar-gutter: stable;
+  }
+  body {
+    @apply bg-paper font-sans text-deep;
+    font-feature-settings: 'kern' 1, 'liga' 1;
+  }
+  ::selection {
+    @apply bg-rust text-cream;
+  }
+  h1, h2, h3 {
+    text-wrap: balance;
+  }
+  :focus-visible {
+    outline: 2px solid #A8431F;
+    outline-offset: 3px;
+    border-radius: 2px;
+  }
+  [lang='ar'] {
+    @apply font-arabic;
+    direction: rtl;
+  }
+  @media (prefers-reduced-motion: reduce) {
+    *, *::before, *::after {
+      animation-duration: 0.01ms !important;
+      animation-iteration-count: 1 !important;
+      transition-duration: 0.01ms !important;
+      scroll-behavior: auto !important;
+    }
+  }
+}
+
+@layer components {
+  .container-site {
+    @apply mx-auto w-full max-w-site px-5 sm:px-8 lg:px-12;
+  }
+  .eyebrow {
+    @apply font-sans text-[11px] font-semibold uppercase tracking-eyebrow;
+  }
+  .rule {
+    @apply border-t border-deep/20;
+  }
+  .rule-light {
+    @apply border-t border-cream/25;
+  }
+  .prose-mq {
+    @apply max-w-measure text-[1.0625rem] leading-[1.85] text-deep/85;
+  }
+  .prose-mq p + p { @apply mt-5; }
+  .arch {
+    border-radius: 999px 999px 14px 14px;
+  }
+  .btn {
+    @apply inline-flex min-h-[44px] items-center justify-center gap-2.5 px-7 py-3 font-sans text-sm font-semibold transition-colors duration-300 ease-calm;
+  }
+  .btn-primary {
+    @apply btn bg-rust text-cream hover:bg-ember;
+  }
+  .btn-outline {
+    @apply btn border border-deep/30 text-deep hover:border-deep hover:bg-deep hover:text-cream;
+  }
+  .btn-outline-cream {
+    @apply btn border border-cream/40 text-cream hover:border-cream hover:bg-cream hover:text-deep;
+  }
+  .link-underline {
+    @apply relative inline-block;
+  }
+  .link-underline::after {
+    content: '';
+    @apply absolute -bottom-0.5 left-0 h-px w-0 bg-current transition-all duration-300 ease-calm;
+  }
+  .link-underline:hover::after,
+  .link-underline:focus-visible::after {
+    @apply w-full;
+  }
+  [data-reveal] {
+    opacity: 0;
+    transform: translateY(28px);
+  }
+  .no-js [data-reveal],
+  [data-reveal].is-revealed {
+    opacity: 1;
+    transform: none;
+  }
+}
