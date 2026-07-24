@@ -1,22 +1,39 @@
 <!doctype html>
-<html lang="en-CA">
+<html lang="en-CA" class="no-js">
   <head>
     <meta charset="UTF-8" />
-    <title>Muraqabah Initiative</title>
-    <meta name="robots" content="noindex" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Muraqabah Initiative | Traditional Islamic Education in the GTA and Online</title>
+    <meta name="description" content="Traditional Islamic education, spiritual formation, and sincere community service in the Greater Toronto Area and online. Knowledge that is not only learned, but embodied." />
+    <meta name="theme-color" content="#F8ECD4" />
+    <link rel="icon" href="/favicon.ico" sizes="32x32" />
+    <link rel="icon" href="/favicon-32.png" type="image/png" sizes="32x32" />
+    <link rel="icon" href="/favicon-16.png" type="image/png" sizes="16x16" />
+    <link rel="apple-touch-icon" href="/apple-touch-icon.png" />
     <script>
+      // GitHub Pages single-page-app path restore.
+      // 404.html redirects unknown paths to /?p=/original/path;
+      // this restores the real URL before the app boots.
       (function () {
-        var base = '/'
-        var path = window.location.pathname
-        if (path.indexOf(base) === 0) {
-          window.location.replace(
-            window.location.origin + base + '?p=' + encodeURIComponent(path) + window.location.hash
-          )
-        } else {
-          window.location.replace(window.location.origin + base)
+        var q = new URLSearchParams(window.location.search)
+        var p = q.get('p')
+        if (p) {
+          history.replaceState(null, '', p + window.location.hash)
         }
       })()
     </script>
+    <script type="module" crossorigin src="/assets/index-CrGiIQc3.js"></script>
+    <link rel="modulepreload" crossorigin href="/assets/gsap-SFc2wnMY.js">
+    <link rel="stylesheet" crossorigin href="/assets/index-DbrgrcCE.css">
   </head>
-  <body></body>
+  <body>
+    <div id="root"></div>
+    <noscript>
+      <div style="font-family: Georgia, serif; max-width: 40rem; margin: 4rem auto; padding: 0 1.5rem; color: #461b07; background: #fbf3e2">
+        <h1>Muraqabah Initiative</h1>
+        <p>Traditional Islamic education, spiritual formation, and sincere community service in the Greater Toronto Area and online.</p>
+        <p>This website needs JavaScript to display. You can reach us directly at <a href="mailto:info@muraqabah.ca">info@muraqabah.ca</a> or find every link at <a href="https://linktr.ee/MuraqabahInitiative">linktr.ee/MuraqabahInitiative</a>.</p>
+      </div>
+    </noscript>
+  </body>
 </html>
