@@ -1,30 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0">
-  <channel>
-    <title>Muraqabah Initiative: Research &amp; Reflections</title>
-    <link>https://www.muraqabah.ca/research</link>
-    <description>Writing from Muraqabah Initiative: spirituality, hadith sciences, and impact reports.</description>
-    <language>en-ca</language>
-    <item>
-      <title>What Is Muraqabah?</title>
-      <link>https://www.muraqabah.ca/research/what-is-muraqabah</link>
-      <guid>https://www.muraqabah.ca/research/what-is-muraqabah</guid>
-      <description>The vigilant awareness that Allah is always watching, and why our initiative carries this name.</description>
-      <pubDate>Wed, 01 Jul 2026 12:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Why Chains of Transmission Matter</title>
-      <link>https://www.muraqabah.ca/research/why-chains-of-transmission-matter</link>
-      <guid>https://www.muraqabah.ca/research/why-chains-of-transmission-matter</guid>
-      <description>The science of hadith transmission has no parallel in any other religious or historical tradition.</description>
-      <pubDate>Wed, 01 Jul 2026 12:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Knowledge in Action: The 2026 Ramadan Campaign</title>
-      <link>https://www.muraqabah.ca/research/knowledge-in-action-ramadan-2026</link>
-      <guid>https://www.muraqabah.ca/research/knowledge-in-action-ramadan-2026</guid>
-      <description>How our community raised $14,725.80 in two weeks and delivered over 300 family packages, 648 hot meals, and direct assistance at home and in Tarim, Yemen.</description>
-      <pubDate>Wed, 01 Jul 2026 12:00:00 GMT</pubDate>
-    </item>
-  </channel>
-</rss>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel>
+    <title>Muraqabah Initiative: Research and Reflections</title><link>https://www.muraqabah.ca/research/</link>
+    <atom:link href="https://www.muraqabah.ca/rss.xml" rel="self" type="application/rss+xml"/>
+    <description>Essays and reports from Muraqabah Initiative.</description><language>en-ca</language>
+    <item><title>What Is Muraqabah?</title><link>https://www.muraqabah.ca/research/what-is-muraqabah/</link><guid>https://www.muraqabah.ca/research/what-is-muraqabah/</guid><pubDate>Thu, 23 Jul 2026 12:00:00 GMT</pubDate><description>The vigilant awareness that Allah is always watching, and why our initiative carries this name.</description></item>
+    <item><title>Why Chains of Transmission Matter</title><link>https://www.muraqabah.ca/research/why-chains-of-transmission-matter/</link><guid>https://www.muraqabah.ca/research/why-chains-of-transmission-matter/</guid><pubDate>Thu, 23 Jul 2026 12:00:00 GMT</pubDate><description>The science of hadith transmission has no parallel in any other religious or historical tradition. Here is why it still matters for every seeker.</description></item>
+    <item><title>Knowledge in Action: The 2026 Ramadan Campaign</title><link>https://www.muraqabah.ca/research/knowledge-in-action-ramadan-2026/</link><guid>https://www.muraqabah.ca/research/knowledge-in-action-ramadan-2026/</guid><pubDate>Thu, 23 Jul 2026 12:00:00 GMT</pubDate><description>How our community raised $14,725.80 in two weeks and delivered over 300 family packages, 648 hot meals, and direct assistance at home and in Tarim, Yemen.</description></item>
+</channel></rss>

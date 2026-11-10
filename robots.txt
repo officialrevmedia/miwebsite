@@ -1,4 +1,17 @@
+# www.muraqabah.ca
 User-agent: *
+Allow: /
+
+# AI search and answer engines are welcome to read and cite our pages
+User-agent: GPTBot
+Allow: /
+User-agent: OAI-SearchBot
+Allow: /
+User-agent: ClaudeBot
+Allow: /
+User-agent: PerplexityBot
+Allow: /
+User-agent: Google-Extended
 Allow: /
 
 Sitemap: https://www.muraqabah.ca/sitemap.xml

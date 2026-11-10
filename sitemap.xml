@@ -1,83 +1,177 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://www.muraqabah.ca/</loc>
-    <lastmod>2026-07-23</lastmod>
+    <lastmod>2026-11-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+    <image:image><image:loc>https://www.muraqabah.ca/images/atmosphere/garden-of-paradise-warm-1672.webp</image:loc></image:image>
+    <image:image><image:loc>https://www.muraqabah.ca/images/posters/the-art-of-seeking-dr-ali-hussain-poster-1080.webp</image:loc></image:image>
+    <image:image><image:loc>https://www.muraqabah.ca/images/posters/gardens-of-paradise-guelph-gathering-poster-1080.webp</image:loc></image:image>
+    <image:image><image:loc>https://www.muraqabah.ca/images/teachers/shaykh-zakaria-abdilaziz-portrait-1100.webp</image:loc></image:image>
+    <image:image><image:loc>https://www.muraqabah.ca/images/teachers/shaykh-nuh-sanders-portrait-1023.webp</image:loc></image:image>
+    <image:image><image:loc>https://www.muraqabah.ca/images/teachers/dr-ali-hussain-portrait-1100.webp</image:loc></image:image>
   </url>
   <url>
-    <loc>https://www.muraqabah.ca/about</loc>
-    <lastmod>2026-07-23</lastmod>
+    <loc>https://www.muraqabah.ca/about/</loc>
+    <lastmod>2026-11-10</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image><image:loc>https://www.muraqabah.ca/images/programs/teachers-together-1600.webp</image:loc></image:image>
   </url>
   <url>
-    <loc>https://www.muraqabah.ca/teachers</loc>
-    <lastmod>2026-07-23</lastmod>
+    <loc>https://www.muraqabah.ca/teachers/</loc>
+    <lastmod>2026-11-10</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <image:image><image:loc>https://www.muraqabah.ca/images/teachers/shaykh-zakaria-abdilaziz-portrait-1100.webp</image:loc></image:image>
+    <image:image><image:loc>https://www.muraqabah.ca/images/teachers/shaykh-nuh-sanders-portrait-1023.webp</image:loc></image:image>
+    <image:image><image:loc>https://www.muraqabah.ca/images/teachers/dr-ali-hussain-portrait-1100.webp</image:loc></image:image>
   </url>
   <url>
-    <loc>https://www.muraqabah.ca/teachers/shaykh-zakaria-abdilaziz</loc>
-    <lastmod>2026-07-23</lastmod>
+    <loc>https://www.muraqabah.ca/teachers/shaykh-zakaria-abdilaziz/</loc>
+    <lastmod>2026-11-10</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image><image:loc>https://www.muraqabah.ca/images/teachers/shaykh-zakaria-abdilaziz-portrait-1100.webp</image:loc></image:image>
   </url>
   <url>
-    <loc>https://www.muraqabah.ca/teachers/shaykh-nuh-sanders</loc>
-    <lastmod>2026-07-23</lastmod>
+    <loc>https://www.muraqabah.ca/teachers/shaykh-nuh-sanders/</loc>
+    <lastmod>2026-11-10</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image><image:loc>https://www.muraqabah.ca/images/teachers/shaykh-nuh-sanders-portrait-1023.webp</image:loc></image:image>
   </url>
   <url>
-    <loc>https://www.muraqabah.ca/programs</loc>
-    <lastmod>2026-07-23</lastmod>
+    <loc>https://www.muraqabah.ca/teachers/dr-ali-hussain/</loc>
+    <lastmod>2026-11-10</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image><image:loc>https://www.muraqabah.ca/images/teachers/dr-ali-hussain-portrait-1100.webp</image:loc></image:image>
   </url>
   <url>
-    <loc>https://www.muraqabah.ca/programs/gardens-of-paradise</loc>
-    <lastmod>2026-07-23</lastmod>
+    <loc>https://www.muraqabah.ca/programs/</loc>
+    <lastmod>2026-11-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <image:image><image:loc>https://www.muraqabah.ca/images/posters/the-art-of-seeking-dr-ali-hussain-poster-1080.webp</image:loc></image:image>
+    <image:image><image:loc>https://www.muraqabah.ca/images/posters/gardens-of-paradise-guelph-gathering-poster-1080.webp</image:loc></image:image>
   </url>
   <url>
-    <loc>https://www.muraqabah.ca/programs/chains-of-trust</loc>
-    <lastmod>2026-07-23</lastmod>
+    <loc>https://www.muraqabah.ca/programs/the-art-of-seeking/</loc>
+    <lastmod>2026-11-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <image:image><image:loc>https://www.muraqabah.ca/images/teachers/dr-ali-hussain-portrait-1100.webp</image:loc></image:image>
+    <image:image><image:loc>https://www.muraqabah.ca/images/posters/the-art-of-seeking-dr-ali-hussain-poster-1080.webp</image:loc></image:image>
   </url>
   <url>
-    <loc>https://www.muraqabah.ca/programs/spheres-of-faith</loc>
-    <lastmod>2026-07-23</lastmod>
+    <loc>https://www.muraqabah.ca/programs/gardens-of-paradise/</loc>
+    <lastmod>2026-11-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <image:image><image:loc>https://www.muraqabah.ca/images/teachers/shaykh-zakaria-abdilaziz-portrait-1100.webp</image:loc></image:image>
+    <image:image><image:loc>https://www.muraqabah.ca/images/posters/gardens-of-paradise-guelph-gathering-poster-1080.webp</image:loc></image:image>
   </url>
   <url>
-    <loc>https://www.muraqabah.ca/impact</loc>
-    <lastmod>2026-07-23</lastmod>
+    <loc>https://www.muraqabah.ca/programs/chains-of-trust/</loc>
+    <lastmod>2026-11-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <image:image><image:loc>https://www.muraqabah.ca/images/teachers/shaykh-nuh-sanders-portrait-1023.webp</image:loc></image:image>
   </url>
   <url>
-    <loc>https://www.muraqabah.ca/impact/ramadan-2026</loc>
-    <lastmod>2026-07-23</lastmod>
+    <loc>https://www.muraqabah.ca/programs/spheres-of-faith/</loc>
+    <lastmod>2026-11-10</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+    <image:image><image:loc>https://www.muraqabah.ca/images/teachers/shaykh-zakaria-abdilaziz-portrait-1100.webp</image:loc></image:image>
   </url>
   <url>
-    <loc>https://www.muraqabah.ca/research</loc>
-    <lastmod>2026-07-23</lastmod>
+    <loc>https://www.muraqabah.ca/events/</loc>
+    <lastmod>2026-11-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.muraqabah.ca/research/what-is-muraqabah</loc>
-    <lastmod>2026-07-23</lastmod>
+    <loc>https://www.muraqabah.ca/events/monthly-in-person-gathering/</loc>
+    <lastmod>2026-11-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image><image:loc>https://www.muraqabah.ca/images/posters/gardens-of-paradise-guelph-gathering-poster-1080.webp</image:loc></image:image>
   </url>
   <url>
-    <loc>https://www.muraqabah.ca/research/why-chains-of-transmission-matter</loc>
-    <lastmod>2026-07-23</lastmod>
+    <loc>https://www.muraqabah.ca/impact/</loc>
+    <lastmod>2026-11-10</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image><image:loc>https://www.muraqabah.ca/images/khidmah/mosque-food-distribution-700.webp</image:loc></image:image>
+    <image:image><image:loc>https://www.muraqabah.ca/images/khidmah/tarim-yemen-meal-packing-700.webp</image:loc></image:image>
   </url>
   <url>
-    <loc>https://www.muraqabah.ca/research/knowledge-in-action-ramadan-2026</loc>
-    <lastmod>2026-07-23</lastmod>
+    <loc>https://www.muraqabah.ca/impact/ramadan-2026/</loc>
+    <lastmod>2026-11-10</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image><image:loc>https://www.muraqabah.ca/images/khidmah/family-food-packages-ready-700.webp</image:loc></image:image>
+    <image:image><image:loc>https://www.muraqabah.ca/images/khidmah/food-packages-staged-700.webp</image:loc></image:image>
+    <image:image><image:loc>https://www.muraqabah.ca/images/khidmah/hot-meal-boxes.webp</image:loc></image:image>
+    <image:image><image:loc>https://www.muraqabah.ca/images/khidmah/tarim-yemen-street-delivery-700.webp</image:loc></image:image>
+    <image:image><image:loc>https://www.muraqabah.ca/images/khidmah/car-loaded-with-food-bags.webp</image:loc></image:image>
+    <image:image><image:loc>https://www.muraqabah.ca/images/khidmah/families-receiving-food-700.webp</image:loc></image:image>
   </url>
   <url>
-    <loc>https://www.muraqabah.ca/media</loc>
-    <lastmod>2026-07-23</lastmod>
+    <loc>https://www.muraqabah.ca/research/</loc>
+    <lastmod>2026-11-10</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.muraqabah.ca/donate</loc>
-    <lastmod>2026-07-23</lastmod>
+    <loc>https://www.muraqabah.ca/research/what-is-muraqabah/</loc>
+    <lastmod>2026-11-10</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://www.muraqabah.ca/contact</loc>
+    <loc>https://www.muraqabah.ca/research/why-chains-of-transmission-matter/</loc>
     <lastmod>2026-07-23</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://www.muraqabah.ca/privacy</loc>
+    <loc>https://www.muraqabah.ca/research/knowledge-in-action-ramadan-2026/</loc>
     <lastmod>2026-07-23</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://www.muraqabah.ca/accessibility</loc>
-    <lastmod>2026-07-23</lastmod>
+    <loc>https://www.muraqabah.ca/media/</loc>
+    <lastmod>2026-11-10</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.muraqabah.ca/donate/</loc>
+    <lastmod>2026-11-10</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.muraqabah.ca/contact/</loc>
+    <lastmod>2026-11-10</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.muraqabah.ca/privacy/</loc>
+    <lastmod>2026-11-10</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.3</priority>
+  </url>
+  <url>
+    <loc>https://www.muraqabah.ca/accessibility/</loc>
+    <lastmod>2026-11-10</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.3</priority>
   </url>
 </urlset>
